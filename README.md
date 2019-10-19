@@ -1,4 +1,4 @@
-# vueresource
+# Vue Resource
 
 ## Project setup
 ```
